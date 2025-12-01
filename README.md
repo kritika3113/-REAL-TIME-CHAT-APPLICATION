@@ -10,4 +10,5 @@
 	- `client/package.json` / `client/package-lock.json`: Frontend dependencies.
 	- `client/.gitignore` and `client/eslint.config.js`: Tooling metadata.
 
-“The server (server.js plus its package.json/package-lock.json) and the entire Vite React client (client with its manifests and source) all live on the master branch. Browse or clone that branch to access every essential file.
+## “The server (server.js plus its package.json/package-lock.json) and the entire Vite React client (client with its manifests and source) all live on the master branch. Browse or clone that branch to access every essential file.
+## All other essential project files live on the master branch in this repository. When opening the project in GitHub Desktop or the GitHub web UI, pull the master branch (treat it like you would main) to access everything.
