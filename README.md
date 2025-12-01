@@ -9,3 +9,5 @@
 	- `client/vite.config.js`: Vite configuration.
 	- `client/package.json` / `client/package-lock.json`: Frontend dependencies.
 	- `client/.gitignore` and `client/eslint.config.js`: Tooling metadata.
+
+“The server (server.js plus its package.json/package-lock.json) and the entire Vite React client (client with its manifests and source) all live on the master branch. Browse or clone that branch to access every essential file.
