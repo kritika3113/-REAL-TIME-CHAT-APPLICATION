@@ -77,3 +77,5 @@ Serve the generated `client/dist` directory with any static file host and point 
 
 ## OUTPUT
 ![Image](https://github.com/user-attachments/assets/7a735d0f-2e71-4406-9b53-c828877b5559)
+
+![Image](https://github.com/user-attachments/assets/eeebb28c-aeff-4fda-a512-f9e36a549760)
