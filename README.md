@@ -74,3 +74,6 @@ Pop-Location
 ```
 
 Serve the generated `client/dist` directory with any static file host and point the backend's static file middleware (or a reverse proxy) to it as needed.
+
+## OUTPUT
+![Image](https://github.com/user-attachments/assets/7a735d0f-2e71-4406-9b53-c828877b5559)
