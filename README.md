@@ -10,6 +10,7 @@ Mentor: NEELA SANTOSH<br>
 
 This Vite + React frontend connects to the accompanying Node/Express + Socket.IO server to provide a real-time chat experience with login, alternating message bubbles, and a conversation history view.
 # All other essential project files live on the `master` branch in this repository—be sure to check that branch if you browse GitHub’s file view.
+# All other essential project files live on the `master` branch in this repository. When opening the project in GitHub Desktop or the GitHub web UI, pull the `master` branch (treat it like you would `main`) to access everything.
 
 ## Repository Layout
 
