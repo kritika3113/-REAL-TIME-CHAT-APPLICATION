@@ -1,14 +1,15 @@
 # -REAL-TIME-CHAT-APPLICATION
 ## Author & Internship Details
-Company: CODTECH IT SOLUTIONS
-Name: KRITIKA SHARMA
-Intern ID: CTO8DR78
-Domain: Front-End Development
-Duration: 8 Weeks
-Mentor: NEELA SANTOSH
+Company: CODTECH IT SOLUTIONS<br>
+Name: KRITIKA SHARMA<br>
+Intern ID: CTO8DR78<br>
+Domain: Front-End Development<br>
+Duration: 8 Weeks<br>
+Mentor: NEELA SANTOSH<br>
 # Real-Time Chat Client
 
 This Vite + React frontend connects to the accompanying Node/Express + Socket.IO server to provide a real-time chat experience with login, alternating message bubbles, and a conversation history view.
+# All other essential project files live on the `master` branch in this repository—be sure to check that branch if you browse GitHub’s file view.
 
 ## Repository Layout
 
